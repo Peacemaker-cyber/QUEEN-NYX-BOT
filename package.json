@@ -1,5 +1,5 @@
 {
-    "name": "Queen-Nyx-V1",
+    "name": "PEACE-MD",
     "version": "1.0.0",
     "description": "Whatsapp Bot By Precious Ayomide",
     "main": "index.js",
@@ -7,7 +7,7 @@
     "directories": {
         "lib": "lib",
         "src": "src",
-        "media": "PrexzyMedia"
+        "media": "PeacdMedia"
     },
     "scripts": {
         "code": "node main.js",
