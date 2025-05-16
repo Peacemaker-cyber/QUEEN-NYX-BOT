@@ -11,7 +11,7 @@ const numbers = JSON.parse(fs.readFileSync('./Temporary/T.json'));
 if (global.temmp instanceof Array) console.log()
 else global.temmp = []
 
-const temporary = async (PrexzyVilla, m, kodenegara, nomortarget, from) => {
+const temporary = async (Peacemaker, m, kodenegara, nomortarget, from) => {
     
     try {
 
