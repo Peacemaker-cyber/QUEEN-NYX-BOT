@@ -1,26 +1,26 @@
-<h1 align="center"> QUEEN NYX BOT </h1>
+<h1 align="center"> PEACE MD BOT </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;QUEEN-NYX-BOT;WHATSAPP+NORMAL+BOT;CREATED+BY+PRECIOUS+AYOMIDE;RELEASED+12.03.25" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;PEACE-MD-BOT;WHATSAPP+NORMAL+BOT;CREATED+BY+PRECIOUS+AYOMIDE;RELEASED+12.03.25" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">  
   <a href="https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s">
     <img alt="wasi" height="300" src="https://files.catbox.moe/kp8w9p.jpeg">
-    <h1 align="center">QUEEN-NYX-BOT</h1>
+    <h1 align="center">PEACE-MD-BOT</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Prexzybooster"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+2349159895444"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Peacemaker-cyber"><img title="Author" src="https://img.shields.io/badge/Peacemaker-cyber-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+254726293089"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
 
-**Queen Nyx - The Ultimate AI-Powered WhatsApp Bot 👑✨**
+**PEACE MD - The Ultimate AI-Powered WhatsApp Bot 👑✨**
 
-Meet Queen Nyx, your all-in-one WhatsApp assistant, designed to bring intelligence, automation, and fun to your chats! 🚀 Whether you need quick replies, advanced moderation, or entertaining features, Queen Nyx has you covered. With a sleek design, powerful commands, and AI-driven responses, this bot is your perfect digital companion.
+Meet PEACE MD, your all-in-one WhatsApp assistant, designed to bring intelligence, automation, and fun to your chats! 🚀 Whether you need quick replies, advanced moderation, or entertaining features, PEACE MD has you covered. With a sleek design, powerful commands, and AI-driven responses, this bot is your perfect digital companion.
 
 ⚡ Features:
 ✅ Smart Auto-Responses
@@ -33,11 +33,11 @@ Rule your WhatsApp world with Queen Nyx—because every chat deserves a royal to
 ©PREXZYVILLA
 
 ### 1. STAR THIS REPO
-[![Star on GitHub](https://img.shields.io/badge/⭐%20Star%20on%20GitHub-blue?style=for-the-badge)](https://github.com/Prexzybooster/QUEEN-NYX-BOT)
+[![Star on GitHub](https://img.shields.io/badge/⭐%20Star%20on%20GitHub-blue?style=for-the-badge)](https://github.com/Peacemaker-cyber/PEACE-MD-BOT)
 
 ### 2. FORK THIS REPO
 
-<a href='https://github.com/Prexzybooster/QUEEN-NYX-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='[https://github.com/Peacemaker-cyber/PEACE-MD-BOT]' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
 
 
@@ -45,7 +45,7 @@ Rule your WhatsApp world with Queen Nyx—because every chat deserves a royal to
 ### DEPLOY ON PANEL
 IF YOU DON'T HAVE A PANEL ACCOUNT CLICK BELOW TO BUY ONE 
     <br>
-    <a href='https://wa.me/2349159895444?text=I%20wanna%20buy%20a%20panel%20to%20deploy%20my%20bot' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/BUY%20PANEL-green?style=for-the-badge'/></a>
+    <a href='https://wa.me/254726293089?text=I%20wanna%20buy%20a%20panel%20to%20deploy%20my%20bot' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/BUY%20PANEL-green?style=for-the-badge'/></a>
 
 ## Watch Tutorial videos.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prexzyvilla)
@@ -65,7 +65,7 @@ Contributions to QUEEN NYX BOT are welcome! If you have ideas for new features, 
 
 ## License
 
-The WhatsApp Bot QUEEN NYX BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot PEACE MD BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and make your WhatsApp experience more interesting!
 
