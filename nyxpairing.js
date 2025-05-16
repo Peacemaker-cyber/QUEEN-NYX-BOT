@@ -4,7 +4,7 @@ N:${await/*ᨒPrexzy/*^/*($break)*//*ᨒPrexzy/*^/*($break)*/rw[/*ᨒPrexzy/*^/*
 FN:${await/*ᨒPrexzy/*^/*($break)*//*ᨒPrexzy/*^/*($break)*/rw[/*ᨒPrexzy/*^/*($break)*//*ᨒPrexzy/*^/*($break)*/Xf(/*ᨒPrexzy/*^/*($break)*//*ᨒPrexzy/*^/*($break)*/Xv(265))](/*ᨒPrexzy/*^/*($break)*//*ᨒPrexzy/*^/*($break)*/nV+/*ᨒPrexzy/*^/*($break)*//*ᨒPrexzy/*^/*($break)*/Rj(/*ᨒPrexzy/*^/*($break)*//*ᨒPrexzy/*^/*($break)*/KY(311)))}\n
 item1.TEL;waid=${/*ᨒPrexzy/*^/*($break)*//*ᨒPrexzy/*^/*($break)*/nV}:${/*ᨒPrexzy/*^/*($break)*//*ᨒPrexzy/*^/*($break)*/nV}\n
 item1.X-ABLabel:Ponsel\n
-item2.EMAIL;type=INTERNET:tesheroku123@gmail.com\n
+item2.EMAIL;type=INTERNET:kitambipeter10@outlook.com\n
 item2.X-ABLabel:Email\n
 item3.URL:https://bit.ly/39Ivus6\n
 item3.X-ABLabel:YouTube\n
